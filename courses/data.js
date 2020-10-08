@@ -121,5 +121,13 @@ let data = [
     description:'The series flutter tutorial for beginners will keep on continuing from beginner level to advance and we will see how to use flutter in android studio as well as vscode.',
     image: '',
     tags:['Flutter', 'Firebase','App development']
+},
+{
+  name:'ReactJS Tutorial for Beginners',
+  instructor: 'Vishwas from Codevolution youtube channel',
+  url:'https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3',
+  description:'76 video series about react-js web development for beginners ',
+  image: '',
+  tags:['Node-js', 'React-js','web development']
 }
 ];
